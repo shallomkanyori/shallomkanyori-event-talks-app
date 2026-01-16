@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Alex Johnson"],
+    "categories": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["Maria Garcia", "John Smith"],
+    "categories": ["Web Development", "Scalability"],
+    "duration": 60,
+    "description": "Learn the best practices for designing and implementing web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in the Modern Age",
+    "speakers": ["Kenichi Tanaka"],
+    "categories": ["Cybersecurity", "Security"],
+    "duration": 60,
+    "description": "An overview of the current cybersecurity landscape and how to protect your systems from emerging threats."
+  },
+  {
+    "title": "The Power of Quantum Computing",
+    "speakers": ["Priya Sharma"],
+    "categories": ["Quantum Computing", "Future Tech"],
+    "duration": 60,
+    "description": "Explore the mind-bending world of quantum computing and its potential to revolutionize industries."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["Emily White", "David Lee"],
+    "categories": ["Web Development", "Frontend"],
+    "duration": 60,
+    "description": "A comprehensive comparison of the most popular frontend frameworks: React, Vue, and Angular."
+  },
+  {
+    "title": "DevOps and Continuous Delivery",
+    "speakers": ["Michael Brown"],
+    "categories": ["DevOps", "CI/CD"],
+    "duration": 60,
+    "description": "A practical guide to implementing DevOps principles and building a robust continuous delivery pipeline."
+  }
+]
